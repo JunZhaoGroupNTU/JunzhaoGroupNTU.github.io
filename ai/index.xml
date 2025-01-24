@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent research about AI in Jun Zhao&#39;s Group</title>
+    <link>/student/</link>
+    <description>Recent research about AI in Jun Zhao&#39;s Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Feb 2023 15:32:33 +0800</lastBuildDate><atom:link href="/ai/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
